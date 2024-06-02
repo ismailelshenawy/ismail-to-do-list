@@ -1,7 +1,7 @@
 .App {
-  background-color: rgb(119, 118, 118);
+  background-color: rgb(26, 20, 20);
 }
 
 .but-end {
-  justify-self: self-end;
+  justify-self: self-end !important;
 }
